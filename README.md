@@ -99,14 +99,32 @@ The CFO of *Avenir Financial Solutions* needed a dynamic model to:
 - ✅ `Financial_Model_Avenir_FinTech.xlsx`  
 - 📘 `ReadMe_Guide_Financial_Modeling.docx` – Includes methodology, assumption tables, and how-to guide
 
+<img width="975" height="656" alt="image" src="https://github.com/user-attachments/assets/9848f5f1-e667-416a-9032-36b86bad8342" />
+
+<img width="975" height="654" alt="image" src="https://github.com/user-attachments/assets/83ab60c8-5fea-425e-b46f-c4d66c33729b" />
+
+<img width="975" height="665" alt="image" src="https://github.com/user-attachments/assets/8480d19d-5a09-4e1e-841f-c6b035c25ff8" />
+
+#Completed/Processed Report: (Balance Sheet)
+<img width="975" height="776" alt="image" src="https://github.com/user-attachments/assets/71c17f03-bba9-4202-b113-d63360e15e49" />
+
+#Completed/Processed Report: (Statement of Cashflows)
+<img width="975" height="783" alt="image" src="https://github.com/user-attachments/assets/400b5f7b-acfe-43f6-9876-a13d493b72b2" />
+
+Completed/Processed Report: (Fixed Assets)
+<img width="975" height="715" alt="image" src="https://github.com/user-attachments/assets/738003a4-5a3d-4896-a57f-ed46e3059134" />
+
+
+
+
+
+
+
+
 ---
 
 ## 📌 Summary
 
 This project demonstrates proficiency in building an end-to-end **3-statement financial model** with **Microsoft Excel**, designed for startups or early-stage FinTech companies. It reflects core finance knowledge, Excel expertise, and business analysis capabilities required to support high-level financial decision-making.
-
----
-
-> For queries or collaboration, feel free to reach out via [LinkedIn](#) or email 📧
 
 
